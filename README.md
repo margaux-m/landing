@@ -9,5 +9,4 @@ It includes:
 
 Have a look at the page [here](https://margaux-m.github.io/landing).
 
-![Landing Page Screenshot](/medium-article-1.png "Landing Page Screenshot")
-![Landing Page Screenshot](/medium-article-2.png "Landing Page Screenshot")
+![Landing Page Screenshot](/images/landing-page-screenshot.png "Landing Page Screenshot")
